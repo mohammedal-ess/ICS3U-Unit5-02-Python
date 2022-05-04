@@ -1,16 +1,8 @@
 ##################################################
-
 # Run Mr Coxall's Super Linter against code base #
-
 ##################################################
-
-
-
 ---
-
 name: Mr Coxall's Super Linter
-
-
 on: [push, pull_request]
 jobs:
   run-linters:
